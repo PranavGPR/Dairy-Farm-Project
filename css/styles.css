@@ -50,7 +50,7 @@ p{
 /*Title Section*/
 
 #title{
-	background-color: #2096E7;
+	background-color: #7FC9FB;
 	color:#fff;
 	position: relative;
 }
@@ -87,13 +87,13 @@ p{
 }
 
 .middle-image{
-	color: #ef8172;
+	color:  #7FC9FB;
 	font-size: 4rem;
 	margin-bottom: 1rem;
 }
 
 .middle-image:hover{
-	color: #ff4c68;
+	color:  #41ADF5;
 }
 
 .col-lg-6{
@@ -112,7 +112,7 @@ p{
 #testimonials{
 	
 	text-align: center;
-	background-color: #ef8172;
+	background-color:  #7FC9FB;
 	color: #fff;
 }
 
