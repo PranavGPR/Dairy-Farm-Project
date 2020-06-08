@@ -86,16 +86,20 @@ h3 {
 }
 
 .middle-image{
-	color:  #7FC9FB;
-	font-size: 4rem;
 	margin-bottom: 1rem;
 }
 
-.middle-image:hover{
-	color:  #41ADF5;
+.col-lg-3{
+	text-align: center;
+	padding: 5%; 
 }
 
-.col-lg-4{
+.col-sm-12{
+	text-align: center;
+	padding: 5%; 
+}
+
+.col-md-6{
 	text-align: center;
 	padding: 5%; 
 }
@@ -138,7 +142,7 @@ h3 {
 }
 
 .caption-para {
-	color: aqua;
+	color: floralwhite;
 }
 
 
