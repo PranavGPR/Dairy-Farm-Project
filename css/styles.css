@@ -74,12 +74,6 @@ h3 {
 	#title{
 		text-align: center;
 	}
-
-	.title-image{
-		padding: 10% 0;
-		position: static;
-		transform: rotate(0);
-	}
 }
 
 /*Middle-section*/
@@ -178,7 +172,7 @@ h3 {
 /*Footer Section*/
 
 #footer{
-	background-color: #fff;
+	background-color: #7FC9FB;
 	text-align: center;
 	font-weight: bold;
 	padding: 2% 0 1%;
