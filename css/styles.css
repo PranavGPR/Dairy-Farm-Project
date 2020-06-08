@@ -23,7 +23,7 @@ p{
 /*Navigation bar*/
 
 .navbar{
-	padding: 0 0 4.5rem;
+	padding: 0 0 1rem;
 }
 
 .navbar-brand{
@@ -56,11 +56,10 @@ p{
 }
 
 .container-fluid{
-	padding: 3% 15% 1%;
+	padding: 1% 15% 1%;
 }
 
 @media (max-width:1028px) {
-
 	.nav-link{
 		padding-top: 2%;
 		text-align: right;
@@ -116,23 +115,31 @@ p{
 	color: #fff;
 }
 
-.ads-image{
-	border-radius: 90%;
-	width: 20%;
-	margin: 20px;
+#carouselExampleControls{
+	height: 60%;
+	width: 100%;
 }
 
-.carousel-item{
-	padding: 7% 15%;
+.ads-image{
+	/* border-radius: 100%; */
+	/* width: 20%; */
+	/* margin: 20px; */
+	/* height: 60%;
+	width: 100%; */
 }
+
+/* .carousel-item{
+	padding: 7% 15%;
+} */
 
 /*Press*/
 
 
 #press{
-	background-color: #ef8172;
+	background-color: #7FC9FB;
 	text-align: center;
-	padding-bottom: 3%;
+	padding: 3%;
+	margin-top: 3%;
 }
 
 
@@ -144,8 +151,8 @@ p{
 
 /*Pricing*/
 
-#pricing{
-	padding:100px;
+#model-image{
+	padding-top: 100px;
 	text-align: center;
 }
 
