@@ -9,6 +9,7 @@ h2{
 	font-size: 3rem;
 	line-height: 1.5;
 	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
 }
 
 body{
@@ -16,6 +17,11 @@ body{
 }
 
 p{
+	color: #8f8f8f;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
 	color: #8f8f8f;
 	font-family: 'Montserrat', sans-serif;
 }
@@ -82,7 +88,7 @@ p{
 	position: relative;
 	z-index: 1;
 	background-color: #fff;
-	padding: 7% 10%;
+	padding: 4%;
 }
 
 .middle-image{
@@ -106,78 +112,76 @@ p{
 }
 
 
+/* details */
+
+#details {
+	background-color:  #fff;
+}
+
+#details h1{
+	padding: 2%;
+	font-family: 'Courgette', cursive;
+	text-align: center;
+	color: #41ADF5;
+}
+
+.details-para {
+	padding: 3%;
+	color: #8f8f8f;
+	font-weight: bold;
+	text-align: center;
+}
+
+
 /*ads*/
 
-#ads{
-	
+#carouselExampleControls{
 	text-align: center;
 	background-color:  #7FC9FB;
 	color: #fff;
+	padding-bottom: 0%;
+	padding: 5%;
 }
 
-#carouselExampleControls{
-	height: 60%;
-	width: 100%;
-}
-
-.ads-image{
-	/* border-radius: 100%; */
-	/* width: 20%; */
-	/* margin: 20px; */
-	/* height: 60%;
-	width: 100%; */
-}
-
-/* .carousel-item{
-	padding: 7% 15%;
-} */
-
-/*Press*/
-
-
-#press{
-	background-color: #7FC9FB;
-	text-align: center;
-	padding: 3%;
-	margin-top: 3%;
+.caption-para {
+	color: aqua;
 }
 
 
-.press-image{
-	width:15%;
-	margin:20px 20px 50px;
-}
-
-
-/*Pricing*/
+/*Model-Farm-Image*/
 
 #model-image{
 	padding-top: 100px;
 	text-align: center;
 }
 
-.pricing-column {
-	padding: 3% 2%;
+/* landmark */
+
+#landmark {
+	text-align: center;	
+	padding: 3%;
+
 }
 
+.landmark {
+	padding-bottom: 3%;
+	font-weight: bold;
+}
 
+.contact {
+	font-weight: bold;
+	padding-top: 2%;
+	text-align: center;
+	font-size: 1.5rem;
+}
 
 /*Footer Section*/
-
-#cta{
-	background-color: #ff4c68;
-	padding: 7% 20%; 
-	text-align: center;
-	font-weight: bold;
-	color: #fff;
-}
-
 
 #footer{
 	background-color: #fff;
 	text-align: center;
 	font-weight: bold;
-	padding: 5% 0 1%;
+	padding: 2% 0 1%;
 }
 
 .footer-icon{
