@@ -83,7 +83,7 @@ p{
 	position: relative;
 	z-index: 1;
 	background-color: #fff;
-	padding: 7% 15%;
+	padding: 7% 10%;
 }
 
 .middle-image{
@@ -96,7 +96,7 @@ p{
 	color:  #41ADF5;
 }
 
-.col-lg-6{
+.col-lg-3{
 	text-align: center;
 	padding: 5%; 
 }
